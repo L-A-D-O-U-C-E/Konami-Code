@@ -1,0 +1,5 @@
+body{
+    background-image: url('GermanChristmasMarket.jpg');
+    background-size: cover; /*ขยายให้เต็มหน้าจอ*/
+    overflow: hidden;
+}
